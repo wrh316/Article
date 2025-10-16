@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <title>质数之美</title>
+    <title> そすう</title>
     <style>
         body {
             font-family: "楷体", "STKaiti", serif;
@@ -27,7 +27,7 @@
     </style>
 </head>
 <body>
-    <div class="title">プライム記号</div>
+    <div class="title"> そすう</div>
     
     <div class="content">
         垂緌饮疏桐，流响出质数。腹有清露，即可检测质数。在心里种花，难吸文化之善；以诗书为方，却只得微微迈出一步。不了解一根火柴，不能医治沉默的哑巴；唯有品味无言之处，方抵无甚底蕴的境界。曹植惊若翩鸿的美，是别样的动心，正如序号五，恰是质数中的一世豪杰。
