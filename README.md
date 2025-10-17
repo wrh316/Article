@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <title> そすう</title>
+    <title> そすう by @wrh316</title>
     <style>
         body {
             font-family: "楷体", "STKaiti", serif;
@@ -27,7 +27,7 @@
     </style>
 </head>
 <body>
-    <div class="title"> そすう</div>
+    <div class="title"> そすう by @wrh316</div>
     
     <div class="content">
         垂緌饮疏桐，流响出质数。腹有清露，即可检测质数。在心里种花，难吸文化之善；以诗书为方，却只得微微迈出一步。不了解一根火柴，不能医治沉默的哑巴；唯有品味无言之处，方抵无甚底蕴的境界。曹植惊若翩鸿的美，是别样的动心，正如序号五，恰是质数中的一世豪杰。
@@ -55,6 +55,18 @@
 
     <div class="content">
         和光同尘，与时舒卷，质数分解道阻且长，但终是凡心所向，素履以往。草木荣枯，春秋代序，斗转星移，沧海桑田。画图难足的广大宏图，连接成波澜壮阔的青山绿水。驰骋于广袤厚实的大陆，内心如山峦般巍峨。卓越自励，臻于至善，乱云飞渡，我自从容。
+    </div>
+
+    <div class="content">
+        This article was over and the reader woke up from the dream.And the reader began a new dream. And the reader dreamed again, dreamed better. And the reader was the universe. And the player was love.
+    </div>
+    
+    <div class="content">
+        You are the reader.
+    </div>
+
+    <div class="content">
+        Wake up.
     </div>
 </body>
 </html>
