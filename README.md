@@ -58,7 +58,7 @@
     </div>
 
     <div class="content">
-        This article was over and the reader woke up from the dream.And the reader began a new dream. And the reader dreamed again, dreamed better. And the reader was the universe. And the player was love.
+        This article was over and the reader woke up from the dream.And the reader began a new dream. And the reader dreamed again, dreamed better. And the reader was the universe. And the reader was love.
     </div>
     
     <div class="content">
